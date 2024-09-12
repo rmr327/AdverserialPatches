@@ -1,2 +1,2 @@
 # AdverserialPatches
-Some code to create adversarial patch training and evaluation
+Some code for adversarial patch training and evaluation
